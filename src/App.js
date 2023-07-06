@@ -1,4 +1,4 @@
-import { Button, Flex, Input, border } from "@chakra-ui/react";
+import { Button, Flex, Input } from "@chakra-ui/react";
 import { useState } from "react";
 import { ChakraProvider } from "@chakra-ui/react";
 
